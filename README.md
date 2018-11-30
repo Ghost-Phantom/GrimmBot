@@ -1,3 +1,10 @@
-This is Grimm Bot! A moderation bot designed to make moderation easier!
+Welcome to Grimm, a moderation bot built around an easy and simple commands, without clutter
 
-The prefix is - but can be changed anytime
+Commands include
+warn
+kick
+mute
+ban
+lockdown
+
+...and more!
